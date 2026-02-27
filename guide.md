@@ -4,5 +4,7 @@
 
 ## npx nx g @nx/angular:component --name=student --path=apps/studentapp/src/app/component/student --skipTests --style=scss
 
+## npx nx g @nx/angular:lib libs/student/dataAccess
+
 ## npx nx graph
 
